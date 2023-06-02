@@ -1,0 +1,5 @@
+.vscode
+build/
+bak*.cpp
+.DS_Store
+train-*ubyte
